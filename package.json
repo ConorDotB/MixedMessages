@@ -1,0 +1,9 @@
+{
+    "name": "randomsentencegenerator",
+    "version": "1.0.0",
+    "description": "A JavaScript console app that randomly generates a sentence using a noun, adjective, verb and adverb.)",
+    "main": "script.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "Conor Browne"
+}
